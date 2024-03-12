@@ -1,0 +1,3 @@
+# ninja log v5
+0	14485	1710134369207856446	/home/shanhai/mycode/DiffuScene-master/ChamferDistancePytorch/chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer3D.o	ab9778ee3fec833f
+0	19156	1710134373871896838	/home/shanhai/mycode/DiffuScene-master/ChamferDistancePytorch/chamfer3D/build/temp.linux-x86_64-cpython-38/chamfer_cuda.o	65c78e75f7466bbc
